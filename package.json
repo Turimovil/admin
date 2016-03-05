@@ -1,0 +1,34 @@
+{
+  "name": "turimovil-admin",
+  "version": "1.0.0",
+  "description": "Website turimovil.com.mx",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aoga88@github.com/turimovil/app.git"
+  },
+  "keywords": [
+    "turimovil",
+    "nodejs",
+    "frontend"
+  ],
+  "author": "Osvaldo Garcia <aoga88@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turimovil/admin/issues"
+  },
+  "homepage": "https://github.com/turimovil/admin#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "http": "0.0.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "gulp-nodemon": "^2.0.6"
+  }
+}
